@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 **Recent BCA graduate** from Jai Narain Vyas University, Jodhpur  <br>💻 Full-stack web developer (MERN Stack)  <br>🧠 Learning AI tools & modern web tech  <br>🌱 Building user-friendly, scalable web apps  <br>🤝 Teamwork & knowledge sharing keep me growing  <br><br>---<br><br>🛠️ **Tech Stack**  <br>**Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS  <br>**Backend:** Node.js, Express.js  <br>**Database:** MongoDB, MySQL  <br>**Tools:** Git, GitHub<br>**Exploring:** AI tools  <br><br>---
+🎓 **Recent BCA graduate** from Jai Narain Vyas University, Jodhpur  <br>💻 Full-stack web developer (MERN Stack)  <br>🧠 Learning AI tools & modern web tech  <br>🌱 Building user-friendly, scalable web apps  <br>🤝 Teamwork & knowledge sharing keep me growing  <br><br><br><br>🛠️ **Tech Stack**  <br>**Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS  <br>**Backend:** Node.js, Express.js  <br>**Database:** MongoDB, MySQL  <br>**Tools:** Git, GitHub<br>**Exploring:** AI tools  <br><br>
 
 
 ## 🌐 Socials:
